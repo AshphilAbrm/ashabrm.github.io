@@ -1,7 +1,5 @@
-
 <html>
-<head>
-  
+<head>  
 </head>
 <body>
 <h1>Ashwin Abraham</h1>
